@@ -1,2 +1,6 @@
-# rocktech-gastrby-learn
-Project to learn Gatsby
+## How to run
+
+```sh
+yarn install
+gatsby develop
+```
